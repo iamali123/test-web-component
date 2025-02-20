@@ -1,6 +1,6 @@
 {
   "name": "angular-workspace",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -33,5 +33,6 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "ng-packagr": "^19.1.0",
     "typescript": "~5.7.2"
-  }
+  },
+  "gitHead": "3e77be29f82ad4078709aeca50ad4d04564b52ea"
 }
